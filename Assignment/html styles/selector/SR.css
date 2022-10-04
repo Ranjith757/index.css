@@ -1,0 +1,14 @@
+h1{
+    background-color: blue;
+}
+p,div,h2{
+    background-color: aquamarine;
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.jagan{
+    background-color: blueviolet;
+}
+#bharathi{
+background-color: aqua; font-size: x-large; font-family: 'Times New Roman', Times, serif;
+}
