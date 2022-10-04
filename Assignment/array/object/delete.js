@@ -6,5 +6,5 @@ let emp={
 }
 emp.NAME="Y S R Great Leader"
 emp.loc="kadapa"
-console.log(emp)
 delete emp.SAL;
+console.log(emp)
