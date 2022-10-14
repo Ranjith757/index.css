@@ -1,11 +1,14 @@
 <html>
-    <head>
-        <script src="ref.js" type="text/javascript"></script>
-    </head>
-    <body>
-        <img src="RS.png">
-        <button onclick="image()">Image</button>
-        </body>
-        </html>
-        
-    
+<title>mouseover</title>
+<script type="text/javascript">
+
+    function setNewImage() {
+        document.getElementById("image1").src = "roman5.jpg";
+    }
+</script>
+
+<body>
+    <img id="image1" onmouseover="setNewImage()" src="./RS.png" width=500 />
+</body>
+
+</html>
